@@ -1,0 +1,5 @@
+Burgers in stock: 50
+Queue 1:
+Queue 2:
+Queue 3:
+

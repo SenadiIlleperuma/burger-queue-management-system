@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CW - SD2.iml" filepath="$PROJECT_DIR$/.idea/CW - SD2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 1 - Array Version/Task 1 - Array Version.iml" filepath="$PROJECT_DIR$/Task 1 - Array Version/Task 1 - Array Version.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2, 3 - Class Version/Task 2, 3 - Class Version.iml" filepath="$PROJECT_DIR$/Task 2, 3 - Class Version/Task 2, 3 - Class Version.iml" />
+    </modules>
+  </component>
+</project>
